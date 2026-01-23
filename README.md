@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nav3.cn/?g">
-    <img src="https://gcore.jsdelivr.net/gh/wsluban168/public@gh-pages/luban/logo.svg" width="130" />
+    <img 
   </a>
   <br />
   <b>发现导航</b>
