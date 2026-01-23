@@ -28,11 +28,7 @@
       https://api.star-history.com/svg?repos=wsluban168/luban&type=Date
     "
   />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=wsluban168/luban&type=Date"
-  />
-</picture>
+  
 
 ## 设计理念
 
