@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nav3.cn/?g">
-    <img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/logo.svg" width="130" />
+    <img src="https://gcore.jsdelivr.net/gh/wsluban168/public@gh-pages/luban/logo.svg" width="130" />
   </a>
   <br />
   <b>发现导航</b>
@@ -8,10 +8,10 @@
   <p align="center">内置收录多达 800+ 优质网站， 助您工作、学习和生活</p>
   <p align="center">
     <a href="README_EN.md"><img alt="english" src="https://img.shields.io/static/v1.svg?label=&message=English&style=flat-square&color=ff5000"></a>
-    <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
+    <img src="https://img.shields.io/github/v/release/wsluban168/luban" />
+    <a href="https://github.com/wsluban168/luban/stargazers"><img src="https://img.shields.io/github/stars/wsluban168/luban" alt="Stars"/></a>
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular&style=flat-square&color=C82B38">
-    <img src="https://img.shields.io/github/license/xjh22222228/nav" />
+    <img src="https://img.shields.io/github/license/wsluban168/luban" />
   </p>
 </p>
 
@@ -19,18 +19,18 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=xjh22222228/nav&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=wsluban168/luban&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=xjh22222228/nav&type=Date
+      https://api.star-history.com/svg?repos=wsluban168/luban&type=Date
     "
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=xjh22222228/nav&type=Date"
+    src="https://api.star-history.com/svg?repos=wsluban168/luban&type=Date"
   />
 </picture>
 
@@ -39,14 +39,9 @@
 无数据库、无服务器、零成本一键部署、开箱即用，但又可以像数据库那样操纵数据和保存。
 
 好用、简单、强大。
-
-[谁在使用？](https://official.nav3.cn/?id=3)
-
 ## 特性
 
 - 🍰 内置 `800+` 优质网站
-- 🍰 支持 [码云 Gitee](https://gitee.com/xiejiahe/nav)
-- 🍰 支持 [GitLab](https://gitlab.com/xjh22222228/nav)
 - 🍰 支持从浏览器书签导入
 - 🍰 支持将数据导出到浏览器书签
 - 🍰 支持 AI 翻译
@@ -76,8 +71,6 @@
 ## 预览
 
 - [https://nav3.cn](https://nav3.cn)
-
-![Preview](https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/preview.gif)
 
 ## 可以干嘛
 
@@ -124,7 +117,7 @@
 | --------------------------------------------- | -------- |--- |--- |
 |√ | | gitRepoUrl | 填写您的仓库地址 |
 |√ | | branch | 部署分支 |
-|√ | | imageRepoUrl | 图片仓库, 默认主仓库 `https://github.com/xjh22222228/image?branch=main` |
+|√ | | imageRepoUrl | 图片仓库, 默认主仓库 `https://github.com/wsluban168/image?branch=main` |
 |√ | √| hashMode | 路由是否 Hash 模式, 如果是部署在 `github pages` 务必设为 true |
 |√ | √| email | 用户提交收录通知 |
 | | √| password | 自有部署登录密码，`Fork` 用户无需填写 |
@@ -150,13 +143,6 @@ git push
 npm run update
 ```
 
-## 支持
-
-项目于 2018 年到至今一直坚持维护和开源, 经过 N 次的迭代与优化, 如果项目能帮到您是我的荣幸。
-
-您可以请作者喝杯咖啡，继续战斗下去
-
-<img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/32.png" width="600">
 
 ## LICENSE
 
