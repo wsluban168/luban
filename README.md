@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nav3.cn/?g">
+  <a href="https://dh.luban.nyc.mn/?g">
     <img 
   </a>
   <br />
@@ -66,8 +66,7 @@
 
 ## 预览
 
-- [https://nav3.cn](https://nav3.cn)
-
+- [https://dh.luban.nyc.mn/](https://dh.luban.nyc.mn/)
 ## 可以干嘛
 
 - 部署公司内部导航系统，统一管理常用链接
@@ -122,7 +121,7 @@
 
 ## 后台
 
-将路由地址修改为 `system` 即可进入，如: https://www.nav3.cn 修改为 https://www.nav3.cn/system
+将路由地址修改为 `system` 即可进入，如:https://dh.luban.nyc.mn 修改为 https://dh.luban.nyc.mn/system
 
 ## 升级
 
