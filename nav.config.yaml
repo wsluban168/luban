@@ -24,7 +24,7 @@ hashMode: false
 address: ''
 
 # 自有部署后台登录密码
-password: wsndy
+password: 
 
 # 自有部署启动端口
 port: 7777
