@@ -21,10 +21,10 @@ imageRepoUrl: ''
 hashMode: false
 
 # 一旦填写认为你是自有部署，Fork 不要填写
-address: ''
+address: 'https://dh.luban.nyc.mn:7777'
 
 # 自有部署后台登录密码
-password: 
+password: 'wsndy'
 
 # 自有部署启动端口
 port: 7777
@@ -34,11 +34,11 @@ email: 'c1957300020@gmail.com'
 
 # 自有部署邮件通知系统
 mailConfig:
-  host: c1957300020@gmail.com
+  host: smtp@gmail.com
   port: 465
   secure: true
   auth:
-    user: ''
+    user: 'c1957300020@gmail.com'
     pass: ''
   title: 网站收录通知
   message: 有用户提交网站收录啦
