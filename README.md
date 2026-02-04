@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dh.luban.nyc.mn/?g">
-    <img 
+    <img src="https://wsluban168/luban/tuku/luban.jepg" width="130" />
   </a>
   <br />
   <b>鲁班导航</b>
