@@ -34,7 +34,7 @@ email: 'c1957300020@gmail.com'
 
 # 自有部署邮件通知系统
 mailConfig:
-  host: smtp@gmail.com
+  host: smtp.gmail.com
   port: 465
   secure: true
   auth:
